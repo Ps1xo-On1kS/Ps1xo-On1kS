@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/divinelabs-banner.svg" width="100%" alt="On1kS, founder of DivineLabs" />
+  <img src="assets/anime-banner.png" width="100%" alt="On1kS at the DivineLabs workstation" />
 
   <br />
   <br />
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ps1xo-On1kS&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ps1xo-On1kS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub achievements" />
 </div>
 
 ### Проекты
