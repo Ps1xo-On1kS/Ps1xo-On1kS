@@ -23,8 +23,14 @@
 <br />
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ps1xo-On1kS&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=8B5CF6&text_color=9CA3AF&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ps1xo-On1kS&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=9CA3AF&langs_count=8" alt="Most used languages" />
+  <a href="https://github.com/Ps1xo-On1kS/github-stats">
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+  </a>
+  <a href="https://github.com/Ps1xo-On1kS/github-stats">
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" />
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
+  </a>
 </div>
 
 <div align="center">
