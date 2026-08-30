@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/anime-girls-banner-blue.png" width="100%" alt="DivineLabs anime banner" />
+  <img src="assets/anime-divine-demon-sect-banner.png" width="100%" alt="Divine Demon Sect anime banner" />
 
   <h1>DIVINELABS</h1>
   <code>Minecraft · Applications · Infrastructure</code>
