@@ -36,8 +36,8 @@
 
 <div align="center">
   <a href="https://github.com/Ps1xo-On1kS/github-stats">
-    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
-    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg" alt="GitHub statistics" />
+    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg" alt="Languages used" />
   </a>
 </div>
 
