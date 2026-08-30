@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/anime-banner.png" width="100%" alt="On1kS at the DivineLabs workstation" />
+  <img src="assets/anime-girls-banner.png" width="100%" alt="Anime girls in the DivineLabs night scene" />
 
   <br />
   <br />
