@@ -10,7 +10,6 @@
   [![Telegram](https://img.shields.io/badge/Telegram-@ps1xo__on1ks-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ps1xo_on1ks)
   ![Discord](https://img.shields.io/badge/Discord-ps1xo%5Fon1ks-5865F2?style=flat-square&logo=discord&logoColor=white)
 </div>
-
 <br />
 
 <div align="center">
