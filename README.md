@@ -15,15 +15,20 @@
 
 <div align="center">
   <h3>STACK</h3>
-
-  ![Kotlin](https://img.shields.io/badge/KOTLIN-0F172A?style=for-the-badge&logo=kotlin&logoColor=38BDF8)
-  ![Java](https://img.shields.io/badge/JAVA-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
-  ![Rust](https://img.shields.io/badge/RUST-0F172A?style=for-the-badge&logo=rust&logoColor=38BDF8)
-  <br />
-  ![Gradle](https://img.shields.io/badge/GRADLE-0F172A?style=for-the-badge&logo=gradle&logoColor=38BDF8)
-  ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
-  ![PowerShell](https://img.shields.io/badge/POWERSHELL-0F172A?style=for-the-badge&logo=powershell&logoColor=38BDF8)
 </div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110"><img src="assets/stack/kotlin.svg" width="42" height="42" alt="Kotlin" /><br /><sub><b>Kotlin</b></sub></td>
+    <td align="center" width="110"><img src="assets/stack/java.svg" width="42" height="42" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rust-white.svg" /><img src="assets/stack/rust.svg" width="42" height="42" alt="Rust" /></picture><br /><sub><b>Rust</b></sub></td>
+    <td align="center" width="110"><img src="assets/stack/gradle.svg" width="42" height="42" alt="Gradle" /><br /><sub><b>Gradle</b></sub></td>
+    <td align="center" width="110"><img src="assets/stack/github-actions.svg" width="42" height="42" alt="GitHub Actions" /><br /><sub><b>Actions</b></sub></td>
+    <td align="center" width="110"><img src="assets/stack/powershell.svg" width="42" height="42" alt="PowerShell" /><br /><sub><b>PowerShell</b></sub></td>
+  </tr>
+</table>
+
+<!-- Original icons: devicons/devicon@7330accdbc47e2dc0c19789a48533c4a3c50fe58 -->
 
 <div align="center">
   <img width="460" src="assets/github-rank.svg" alt="GitHub rank" />
