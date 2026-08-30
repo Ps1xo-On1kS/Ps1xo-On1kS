@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="assets/anime-divine-demon-sect-banner.png" width="100%" alt="Divine Demon Sect anime banner" />
+  <img src="assets/anime-divine-demon-sect-full-banner.png" width="100%" alt="Divine Demon Sect anime banner" />
 
   <h1>DIVINELABS</h1>
-  <code>Minecraft · Applications · Infrastructure</code>
-
-  <br />
   <br />
 
   [![Profile views](https://komarev.com/ghpvc/?username=Ps1xo-On1kS&label=views&color=0EA5E9&style=flat-square)](https://github.com/Ps1xo-On1kS)
@@ -17,7 +14,22 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,rust,gradle,githubactions,powershell&theme=dark" alt="Technology stack" />
+  <h3>STACK</h3>
+
+  ![Kotlin](https://img.shields.io/badge/KOTLIN-0F172A?style=for-the-badge&logo=kotlin&logoColor=38BDF8)
+  ![Java](https://img.shields.io/badge/JAVA-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
+  ![Rust](https://img.shields.io/badge/RUST-0F172A?style=for-the-badge&logo=rust&logoColor=38BDF8)
+  <br />
+  ![Gradle](https://img.shields.io/badge/GRADLE-0F172A?style=for-the-badge&logo=gradle&logoColor=38BDF8)
+  ![GitHub Actions](https://img.shields.io/badge/GITHUB_ACTIONS-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8)
+  ![PowerShell](https://img.shields.io/badge/POWERSHELL-0F172A?style=for-the-badge&logo=powershell&logoColor=38BDF8)
+</div>
+
+<br />
+
+<div align="center">
+  <h3>GITHUB RANK</h3>
+  <img width="500" src="assets/github-rank.svg" alt="GitHub rank" />
 </div>
 
 <br />
@@ -26,10 +38,6 @@
   <a href="https://github.com/Ps1xo-On1kS/github-stats">
     <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg#gh-dark-mode-only" alt="GitHub statistics" />
     <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg#gh-dark-mode-only" alt="Languages used" />
-  </a>
-  <a href="https://github.com/Ps1xo-On1kS/github-stats">
-    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/overview.svg#gh-light-mode-only" alt="GitHub statistics" />
-    <img width="360" src="https://github.com/Ps1xo-On1kS/github-stats/blob/generated/languages.svg#gh-light-mode-only" alt="Languages used" />
   </a>
 </div>
 
