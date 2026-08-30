@@ -28,6 +28,7 @@
 <!-- Original icons: devicons/devicon@7330accdbc47e2dc0c19789a48533c4a3c50fe58 -->
 
 <div align="center">
+  <h3>STATS</h3>
   <img width="460" src="assets/github-rank.svg" alt="GitHub rank" />
 </div>
 
@@ -39,6 +40,7 @@
 </div>
 
 <div align="center">
+  <h3>ACHIEVEMENTS</h3>
   <img src="assets/github-trophies.svg" alt="GitHub achievements" />
 </div>
 
