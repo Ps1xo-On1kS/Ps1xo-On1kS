@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/anime-divine-demon-sect-full-banner.png" width="100%" alt="Divine Demon Sect anime banner" />
+  <img src="assets/anime-divine-demon-sect-panorama.png" width="100%" alt="Divine Demon Sect anime banner" />
 
   <h1>DIVINELABS</h1>
   <br />
@@ -25,14 +25,9 @@
   ![PowerShell](https://img.shields.io/badge/POWERSHELL-0F172A?style=for-the-badge&logo=powershell&logoColor=38BDF8)
 </div>
 
-<br />
-
 <div align="center">
-  <h3>GITHUB RANK</h3>
-  <img width="500" src="assets/github-rank.svg" alt="GitHub rank" />
+  <img width="460" src="assets/github-rank.svg" alt="GitHub rank" />
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://github.com/Ps1xo-On1kS/github-stats">
@@ -42,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ps1xo-On1kS&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub achievements" />
+  <img src="assets/github-trophies.svg" alt="GitHub achievements" />
 </div>
 
 <br />

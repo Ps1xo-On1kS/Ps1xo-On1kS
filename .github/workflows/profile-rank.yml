@@ -28,10 +28,43 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Refresh trophy card
+        shell: bash
+        run: |
+          tmp_file="$(mktemp)"
+          updated=false
+          for endpoint in \
+            "https://trophy.ryglcloud.net/" \
+            "https://github-profile-repo.vercel.app/"
+          do
+            if curl --fail --location --silent --show-error --retry 3 \
+              --get "$endpoint" \
+              --data-urlencode "username=Ps1xo-On1kS" \
+              --data-urlencode "theme=algolia" \
+              --data-urlencode "no-frame=true" \
+              --data-urlencode "no-bg=true" \
+              --data-urlencode "margin-w=8" \
+              --data-urlencode "margin-h=8" \
+              --data-urlencode "row=1" \
+              --data-urlencode "column=6" \
+              --output "$tmp_file" && \
+              grep --quiet '<svg' "$tmp_file" && \
+              ! grep --ignore-case --quiet '<html' "$tmp_file"
+            then
+              mv "$tmp_file" assets/github-trophies.svg
+              updated=true
+              break
+            fi
+          done
+          if [ "$updated" != true ]; then
+            rm -f "$tmp_file"
+            echo "::warning::Trophy mirrors are unavailable; keeping the last generated card."
+          fi
+
       - name: Commit updated card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-rank.svg
+          git add assets/github-rank.svg assets/github-trophies.svg
           git commit -m "chore: refresh profile rank [skip ci]" || exit 0
           git push
