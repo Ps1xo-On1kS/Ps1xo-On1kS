@@ -1,7 +1,5 @@
 <div align="center">
   <img src="assets/anime-divine-demon-sect-panorama.png" width="100%" alt="Divine Demon Sect anime banner" />
-
-  <h1>DIVINELABS</h1>
   <br />
 
   [![Profile views](https://komarev.com/ghpvc/?username=Ps1xo-On1kS&label=views&color=0EA5E9&style=flat-square)](https://github.com/Ps1xo-On1kS)
